@@ -6,5 +6,5 @@ About
 - This website is an Application of playing diffrent audios on different actions with the help of JavaScript.
 - It includes application of HTML, CSS and JavaScript.
 
-<a href="https://kuna1jain.github.io/Drum-Kit/">Project Build</a>; 
+<a href="https://kuna1jain.github.io/Drum-Kit/">Project Build</a>
  
